@@ -1,0 +1,9 @@
+./CMakeFiles
+./Release
+./.vscode
+./cmake_install.cmake
+./src/cmake_install.cmake
+./CMakeCache.txt
+./src/CMakeCache.txt
+./Makefile
+./src/Makefile
