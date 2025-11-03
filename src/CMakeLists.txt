@@ -11,19 +11,10 @@
 set(CEFSIMPLE_SRCS
   MITMApp.cpp
   MITMApp.h
+  MITMHandler.cpp
   MITMHandler.h
-  # shitflix_app.cpp
-  # shitflix_app.h
-  # shitflix_handler.cpp
-  # shitflix_handler.h
-  # shitflix_v8_handler.cpp
-  # shitflix_v8_handler.h
-  # shitflix_httpServer.cpp
-  # shitflix_httpServer.h
   )
 set(CEFSIMPLE_SRCS_LINUX
-  # shitflix_linux.cpp
-  # shitflix_handler_linux.cpp
   )
   
 APPEND_PLATFORM_SOURCES(CEFSIMPLE_SRCS)
